@@ -4,7 +4,7 @@ An interactive, browser-based course that teaches **production Python to enginee
 Every concept starts from the Go you write today (slices, interfaces, `defer`, goroutines, `go.mod`) and ends in
 idiomatic, production-grade Python, through to FastAPI services, Kafka, RAG and AI agents.
 
-**▶ Start the course: https://YOUR-USERNAME.github.io/python-for-go-devs/**
+**▶ Start the course: https://ashrabya.github.io/python-for-go-devs/**
 
 There's nothing to install. Python 3.12 runs right in your browser (via [Pyodide](https://pyodide.org/)), so you can
 edit and run every example on a laptop or a phone.
@@ -100,7 +100,7 @@ The whole course is a **single self-contained `index.html`**. It has no build st
 ## Run it locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/python-for-go-devs.git
+git clone https://github.com/ashrabya/python-for-go-devs.git
 cd python-for-go-devs
 python3 -m http.server 8080
 # open http://localhost:8080
